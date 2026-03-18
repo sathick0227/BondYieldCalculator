@@ -25,5 +25,10 @@ Market Price: 950
 Years: 5
 Frequency: Semi-annual
 
+## Screenshot
+<img src="src/assets/screenshot/first.png" width="300" />
+<img src="src/assets/screenshot/second.png" width="300" />
+<img src="src/assets/screenshot/third.png" width="300" />
+
 ## Notes
 YTM is calculated using binary search approximation.
